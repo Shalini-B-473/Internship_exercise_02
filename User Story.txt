@@ -1,0 +1,2 @@
+User Story for factorial problem:
+As a user, I want to be able to calculate the factorial of a given number so that I can obtain the product of all positive integers up to that number.
