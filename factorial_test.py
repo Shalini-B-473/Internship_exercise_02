@@ -1,5 +1,5 @@
 '''Code to test factorial function'''
-'''Built using pytest'''
+'''Tested using pytest'''
 import pytest
 from factorial_code import *
 def test_zero():
